@@ -63,7 +63,7 @@
     "html-webpack-plugin": "^5.3.2",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "postcss": "^8.3.5",
     "postcss-import": "^14.0.2",
     "postcss-loader": "^6.1.1",
