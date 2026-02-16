@@ -17,7 +17,7 @@
     "@adguard/safari-extension": "^3.0.0",
     "@adguard/translate": "1.0.2",
     "@babel/runtime": "^7.14.6",
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "classnames": "^2.3.1",
     "mobx": "^6.3.3",
     "mobx-react": "^7.2.0",
